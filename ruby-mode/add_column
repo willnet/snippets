@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: add_column :blogs, :title, :string
+# key: ac
+# --
+add_column :${table_name}, :${column_name}, :${type}

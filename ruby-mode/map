@@ -1,0 +1,5 @@
+#name : map do |...| ... end
+# --
+map do |${e}|
+  $0
+end

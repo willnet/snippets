@@ -1,0 +1,5 @@
+#name : <% form_for(@user, :url => user_path, :html => {:method => :post}) do |f| %> ... <% end  %>
+# --
+<% form_for(${object}, :url => ${path}, :html => {:method => :${method}}) do |f| %>
+$0
+<% end %>

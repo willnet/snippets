@@ -1,0 +1,3 @@
+#name : attr_protected
+# --
+attr_protected :${column}

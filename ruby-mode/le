@@ -1,0 +1,4 @@
+#name : logger.error
+# --
+logger.error ${log object}
+$0

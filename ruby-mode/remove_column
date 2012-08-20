@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: remove_column :blogs, :title
+# key: rc
+# --
+remove_column :${table_name}, :${column_name}

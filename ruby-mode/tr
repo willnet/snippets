@@ -1,0 +1,5 @@
+#name : ActiveRecord::Base.transaction
+# --
+ActiveRecord::Base.transaction do
+  $0
+end

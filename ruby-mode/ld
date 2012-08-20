@@ -1,0 +1,4 @@
+#name : logger.debug 
+# --
+logger.debug ${log object}
+$0

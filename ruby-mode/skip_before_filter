@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: skip_before_filter
+# key: sbf
+# --
+skip_before_filter :${filter}

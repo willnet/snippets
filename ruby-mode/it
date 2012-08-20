@@ -1,0 +1,5 @@
+#name : it do ... end
+# --
+it "${str}" do
+  $0
+end

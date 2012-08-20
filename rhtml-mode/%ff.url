@@ -1,0 +1,5 @@
+#name : <% form_for(@user, :url => user_path) do |f| %> ... <% end  %>
+# --
+<% form_for(${object}, :url => ${path}) do |f| %>
+$0
+<% end %>

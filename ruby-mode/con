@@ -1,0 +1,5 @@
+# name : context "string" do ... end
+# --
+context "${1:string}" do
+  $0
+end

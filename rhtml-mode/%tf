@@ -1,0 +1,3 @@
+#name : <%= f.text_field(" ... ", " ... ") %>
+# --
+<%= f.text_field(:${column}) %>$0
