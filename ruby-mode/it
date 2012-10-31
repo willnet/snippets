@@ -1,5 +1,5 @@
 #name : it do ... end
 # --
-it "${str}" do
+it '${str}' do
   $0
 end
