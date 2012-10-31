@@ -1,0 +1,6 @@
+# key: %ft
+# name: <% form_tag users_path do %> ... <% end  %>
+# --
+<% form_tag ${path} do %>
+$0
+<% end %>
