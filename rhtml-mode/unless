@@ -1,0 +1,6 @@
+# name : <% unless  ...  %> $. <% end %>
+# key : %un
+# --
+<% unless ${cond} %>
+$0
+<% end %>

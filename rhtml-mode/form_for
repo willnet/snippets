@@ -1,0 +1,6 @@
+# name : <% form_for(@user) do |f| %> ... <% end  %>
+# key : %ff
+# --
+<%= form_for(${object}) do |f| %>
+$0
+<% end %>

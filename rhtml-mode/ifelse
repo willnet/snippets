@@ -1,0 +1,7 @@
+# name : <% if  ...  %> $. <% else %> <% end %>
+# key : %ifel
+# --
+<% if ${cond} %>
+$0
+<% else %>
+<% end %>

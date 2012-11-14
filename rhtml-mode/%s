@@ -1,5 +1,0 @@
-#name : <%= submit_tag "送信" %>
-# --
-<%= submit_tag "${string}" %>
-$0
-

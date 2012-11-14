@@ -1,0 +1,4 @@
+# name : <%= f.text_area :body %>
+# key : %ta
+# --
+<%= f.text_area :${column} %>$0

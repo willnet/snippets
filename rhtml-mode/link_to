@@ -1,0 +1,4 @@
+# name : <%= link_to ' ... ', ' ... ' %>
+# key : %li
+# --
+<%= link_to '${title}', ${path} %>$0

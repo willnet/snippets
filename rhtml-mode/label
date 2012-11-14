@@ -1,0 +1,4 @@
+# name : <%= f.label :body %>
+# key : %l
+# --
+<%= f.label :${column} %>$0
