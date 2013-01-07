@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ActionMailer::Base.deliveries
+# key: abd
+# --
+ActionMailer::Base.deliveries
