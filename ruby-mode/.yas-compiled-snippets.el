@@ -37,6 +37,9 @@
                        ("arr" "ActiveRecord::RecordNotFound\n" "ActiveRecord::RecordNotFound" nil nil nil nil nil nil)
                        ("arr" "ActiveRecord::RecordInvalid\n" "ActiveRecord::RecordInvalid" nil nil nil nil nil nil)
                        ("arr" "ActiveRecord::RecordNotSaved\n\n" "ActiveRecord::RecordNotSaved" nil nil nil nil nil nil)
+                       ("aw" "attr_writer :" "attr_writer ..." nil
+                        ("definitions")
+                        nil nil nil nil)
                        ("ba" "background do\n$0\nend\n" "backdround do ... end" nil nil nil nil nil nil)
                        ("be" "begin\nrescue\n  $0\nend\n" "begin ... rescue ... end" nil nil nil nil nil nil)
                        ("be" "before do\n  $0\nend\n" "before do ... end" nil nil nil nil nil nil)
@@ -173,9 +176,6 @@
                        ("vn" "validates_numericality_of :${attr}\n" "validates_numericality_of : ... " nil nil nil nil nil nil)
                        ("vp" "validates_presence_of :${attr}\n" "validates_presence_of : ... " nil nil nil nil nil nil)
                        ("vu" "validates_uniqueness_of :${attr}\n" "validates_uniqueness_of : ... " nil nil nil nil nil nil)
-                       ("w" "attr_writer :" "attr_writer ..." nil
-                        ("definitions")
-                        nil nil nil nil)
                        ("when" "when ${condition}\n  $0\nend" "when ... end" nil
                         ("control structure")
                         nil nil nil nil)
@@ -190,4 +190,4 @@
                         nil nil nil nil)))
 
 
-;;; Do not edit! File generated at Mon Jan  7 15:08:51 2013
+;;; Do not edit! File generated at Tue Feb 26 14:33:46 2013
