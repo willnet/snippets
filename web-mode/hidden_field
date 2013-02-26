@@ -1,0 +1,4 @@
+# name : <%= f.hidden_field :token %>
+# key : %hf
+# --
+<%= f.hidden_field :${column} %>$0

@@ -1,0 +1,4 @@
+# name : <%= render 'form' %>
+# key: %r
+# --
+<%= render '${template}' %>

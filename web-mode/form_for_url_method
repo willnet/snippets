@@ -1,0 +1,6 @@
+# name : <% form_for(@user, url: user_path, method: :post}) do |f| %> ... <% end  %>
+# key : %ff
+# --
+<%= form_for(${object}, url: ${path}, method: :${method}) do |f| %>
+$0
+<% end %>

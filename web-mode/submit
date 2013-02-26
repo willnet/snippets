@@ -1,0 +1,6 @@
+# name : <%= f.submit '送信' %>
+# key : %s
+# --
+<%= f.submit '${string}' %>
+$0
+
